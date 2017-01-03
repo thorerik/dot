@@ -1,0 +1,15 @@
+{
+  "name": "thorerik/dot",
+  "description": "dotfiles redirector",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Thor Erik Lie",
+      "email": "thor@thor.re"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "6.2.2"
+  }
+}
